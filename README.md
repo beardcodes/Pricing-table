@@ -1,4 +1,4 @@
 # Pricing-table
 
-# Demo https://pricingtablez.netlify.app/
+# Website Demo
 
